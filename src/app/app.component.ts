@@ -59,7 +59,7 @@ import { animate, group, query, style, transition, trigger } from '@angular/anim
           animate(300, style({
             color: 'red'
           })),
-          animate(200)
+          animate(200),
         ])
       ])
     ])
